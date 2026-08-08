@@ -106,8 +106,8 @@ leave a service.
 
 ## 📫 Connect With Me
 
-- GitHub: [sreeman06](https://github.com/sreeman06)
-- LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/sreeman-krishnasamy-571454295/)
+- GitHub: [sree_Git](https://github.com/sreeman06)
+- LinkedIn: [sree_linkedin](https://www.linkedin.com/in/sreeman-krishnasamy-571454295/)
 - Email: sreeman8193@gmail.com
 
 ---
