@@ -51,6 +51,7 @@ and AI technologies.
 - GitHub
 - Jupyter Notebook
 - VS Code
+- Colab
 
 ## 🚀 Featured Projects
 
